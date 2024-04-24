@@ -308,7 +308,7 @@ def main(cfg):
 if __name__ == "__main__":
 
     parser = argparse.ArgumentParser()
-    parser.add_argument("--config", type=str, default="./configs/inference.yaml")
+    parser.add_argument("--config", type=str, default="./configs/inference/inference.yaml")
     args = parser.parse_args()
 
     if args.config[-5:] == ".yaml":
