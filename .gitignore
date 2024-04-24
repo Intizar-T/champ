@@ -5,3 +5,5 @@ results/
 .vscode/
 .hypothesis/
 __pycache__/
+assets/
+.DS_Store
