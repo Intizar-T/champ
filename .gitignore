@@ -7,4 +7,3 @@ results/
 __pycache__/
 assets/
 .DS_Store
-pretrained_models/
